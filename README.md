@@ -1,5 +1,5 @@
 # crypto_experiment
-## RSA大礼包
+## Ex3 RSA大礼包
 
 ### 题目描述
 
@@ -15,5 +15,7 @@
 6. coppersmith攻击(已知m的高位)，见.sage文件
 7. 对随机数发送器的预测..
 
+详见 [实验报告](https://github.com/Juli-Eyre/crypto_experiment/blob/master/ex3/%E5%AF%86%E7%A0%81%E5%AD%A6%E5%A4%A7%E4%BD%9C%E4%B8%9A.pdf)
 
-
+## Ex2 & Ex2
+见[博客链接](https://blog.csdn.net/juli_eyre/article/details/120722335)
